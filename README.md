@@ -1,4 +1,4 @@
-# `vite` Vite Overlay Link Issue Reproduction
+# `vite` Overlay Link Issue Reproduction
 
 Run scripts in two *separate* terminals:
 
