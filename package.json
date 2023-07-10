@@ -1,0 +1,14 @@
+{
+  "name": "vite-overlay-link-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "server": "http-server -a localhost -p 3000 .",
+    "vite": "vite"
+  },
+  "devDependencies": {
+    "vite": "^4.4.2",
+    "http-server": "^14.1.1"
+  }
+}
